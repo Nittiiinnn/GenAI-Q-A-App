@@ -7,7 +7,7 @@ const pdfjsLib = require('pdfjs-dist/legacy/build/pdf.mjs');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 
 const app = express();
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8000;
 const documents = {};
 
 
