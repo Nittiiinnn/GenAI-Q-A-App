@@ -9,7 +9,7 @@ A full-stack application built with React and Node.js that allows users to uploa
 ## Screenshot
 
 
-*A screenshot of the application after a document has been uploaded and an AI-generated answer has been successfully received.*
+![alt text](image.png)
 
 ---
 
