@@ -9,7 +9,7 @@ A full-stack application built with React and Node.js that allows users to uploa
 ## Screenshot
 
 
-![alt text](Image.png)
+
 
 ---
 
