@@ -8,10 +8,10 @@ A full-stack application built with React and Node.js that allows users to uploa
 
 ## Screenshot
 
+<img width="1915" height="1045" alt="Image" src="https://github.com/user-attachments/assets/efbfa77d-1b7f-4301-a9aa-30c9e4a00d8f" />
 
 
 
----
 
 ## Core Technologies
 
